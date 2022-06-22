@@ -9,7 +9,7 @@ imutils==0.5.3
 ipaddress==1.0.17
 keyring==10.6.0
 keyrings.alt==3.0
-numpy==1.16.6
+numpy==1.22.0
 opencv-contrib-python==4.2.0.32
 pycrypto==2.6.1
 pygobject==3.26.1
